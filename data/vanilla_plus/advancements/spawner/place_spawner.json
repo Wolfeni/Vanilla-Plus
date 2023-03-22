@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"place": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"nbt": "{ctc: {id: \"spawner\", from: \"vanilla_plus:spawner\"}}"
+				}
+			}
+		}
+	},
+	"parent": "vanilla_plus:spawner/root",
+	"rewards": {
+		"function": "vanilla_plus:spawner/event/place_spawner"
+	}
+}

@@ -1,0 +1,1 @@
+execute unless entity @e[tag=global.ignore, distance=..0.8] run function vanilla_plus:spawner/raycast/found

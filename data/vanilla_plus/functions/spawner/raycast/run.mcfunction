@@ -1,0 +1,2 @@
+execute align xyz positioned ~0.5 ~0.5 ~0.5 if block ~ ~ ~ minecraft:spawner run function vanilla_plus:spawner/raycast/check
+execute as @s[distance=..5.5] if score #raycast VP.Spawn.var matches 0 positioned ^ ^ ^0.1 run function vanilla_plus:spawner/raycast/run

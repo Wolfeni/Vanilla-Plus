@@ -1,0 +1,8 @@
+{
+    "values": [
+      "vanilla_plus:arrow",
+      "vanilla_plus:shulker_respawn/check_ender_on_purpur",
+      "vanilla_plus:spawner/if_mined",
+      "vanilla_plus:effect_special_objects"
+    ]
+  }

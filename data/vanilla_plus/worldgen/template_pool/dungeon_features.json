@@ -1,0 +1,16 @@
+{
+    "name": "vanilla_plus:dungeon_features",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "vanilla_plus:dungeon/features/axe_skeleton_spawner",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,1 @@
+data merge entity @e[type=arrow,limit=1,sort=nearest,nbt={pickup:0b}] {pickup:1b}

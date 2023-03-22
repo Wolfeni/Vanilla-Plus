@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:arrow"
+    },
+    "title": "Pickable arrows!",
+    "description": "Any arrow shot by any mob can be picked up!",
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "minecraft:vanilla_plus/mobs_loot_tables",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

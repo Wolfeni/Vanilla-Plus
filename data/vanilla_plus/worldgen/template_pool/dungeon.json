@@ -1,0 +1,16 @@
+{
+    "name": "vanilla_plus:dungeon",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "vanilla_plus:dungeon/hallways/90_trapped_hallway",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  

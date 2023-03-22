@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:spawner"
+        },
+        "title": "Pickable Spawners!",
+        "description": "Spawners can be picked up along with his entity inside of it!",
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "parent": "minecraft:vanilla_plus/spawn_generation",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
