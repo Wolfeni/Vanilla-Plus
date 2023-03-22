@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:water_bucket"
+        },
+        {
+            "item": "minecraft:pufferfish"
+        }
+    ],
+    "result": {
+        "item": "minecraft:pufferfish_bucket",
+        "count": 1
+    }
+}
