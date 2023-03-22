@@ -1,0 +1,19 @@
+{
+	"pack": {
+		"pack_format": 10,
+		"description": {
+			"text": "§lVanilla + ",
+			"color": "gold",
+			"extra": [
+				{
+					"text": "§nby Wolfeni",
+					"color": "white"
+				},
+				{
+					"text": " §ofor version 1.19.X",
+					"color": "gray"
+				}
+			]
+		}
+	}
+}
