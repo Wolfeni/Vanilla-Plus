@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 1
+    }
+}
